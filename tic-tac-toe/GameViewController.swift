@@ -11,7 +11,7 @@ import UIKit
 class GameViewController: UIViewController {
     @IBAction func playAgainButton(sender: AnyObject) {
         
-        
+        print(xIsSelected)
         
     }
 
